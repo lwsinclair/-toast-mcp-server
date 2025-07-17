@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/naru-sensei-toast-mcp-server-badge.png)](https://mseep.ai/app/naru-sensei-toast-mcp-server)
+
 # Windows 10 および macOS 通知機能付き MCP サーバー
 
 ## プロジェクト概要
